@@ -1,2 +1,11 @@
 # Game-Jams
-Repository that has links to game jams
+
+> Repository with links to game jams
+
+## Independent
+
+- [Global Game Jam 2024](https://github.com/SebastiaoCarvalho/ggj-2024)
+
+## With GameDev Técnico
+
+- [Blind Gamers Jam 2024](https://github.com/SebastiaoCarvalho/Blind-Gamers-Jam)
