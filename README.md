@@ -9,3 +9,4 @@
 ## With GameDev Técnico
 
 - [Blind Gamers Jam 2024](https://github.com/SebastiaoCarvalho/Blind-Gamers-Jam)
+- [ET Horror Jam 2024](https://github.com/fallenatlas/ET_Horror_Jam_24)
